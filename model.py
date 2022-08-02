@@ -24,4 +24,4 @@ def create_model(df):
 
 
 # if __name__ == "__main__":
-#     model()
+#     create_model()
